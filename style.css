@@ -1,0 +1,18 @@
+body {
+    font-family: 'Archivo Narrow', sans-serif;    
+}
+
+.container {
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
+}
+
+a {
+    color:rgb(128, 0, 128);
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(201, 0, 201);
+}
