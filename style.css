@@ -10,8 +10,10 @@ body {
     margin: auto;
 }
 
-.sitemap {
-    transform: rotate(90deg);
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 50ch;
 }
 
 a {
