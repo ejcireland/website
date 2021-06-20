@@ -10,6 +10,10 @@ body {
     margin: auto;
 }
 
+.sitemap {
+    transform: rotate(90deg);
+}
+
 a {
     color: #01d543;
     text-decoration: none;
