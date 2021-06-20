@@ -1,18 +1,20 @@
 body {
+    background-color: #026d24;
     font-family: 'Archivo Narrow', sans-serif;    
 }
 
 .container {
-    max-width: 80ch;
+    background-color: #ffffff;
+    max-width: 100ch;
     padding: 2ch;
     margin: auto;
 }
 
 a {
-    color:rgb(128, 0, 128);
+    color: #01d543;
     text-decoration: none;
 }
 
 a:hover {
-    color:rgb(201, 0, 201);
+    color: #afff5b;
 }
